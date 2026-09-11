@@ -1,4 +1,4 @@
-import { PlaceholderPage } from '../components/layout';
+import { PlaceholderPage } from '../../components/layout';
 
 export default function AnalyticsPage() {
   return <PlaceholderPage title="Analytics" />;
